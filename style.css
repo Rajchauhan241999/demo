@@ -5,6 +5,7 @@
 
 
 .bgimage{
+	
 	background-image: url('tt.jpg');
 	background-size: 100% 100%;
 	width: 100%;
@@ -90,6 +91,7 @@
 }
 .para2{
 	background-color: rgb(0, 0, 0,0.5)
+
 }
 
 .para2 h2{
@@ -105,13 +107,16 @@ h2{
 .conlay{
 	font-size: 20px;
 	color: white;
+	
+	
 }
 .input1{
 	font-size: 15px;
 	line-height: 15px;
 	padding: 10px;
-	margin: 20px;
-
+	margin: 30px;
+	width: 200px;
+	
 }
 
 #fisrtlist{
