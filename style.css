@@ -29,7 +29,7 @@
 }
 
 .leftmenu h4{
-	padding-left: 50px;
+	padding-left: 40px;
 	font-weight: bold;
 	color: white;
 	font-size: 22px;
@@ -45,7 +45,7 @@
 }
 
 .rightmenu ul{
-	margin-left: 250px;
+	margin-left: 150px;
 }
 
 .rightmenu ul li {
@@ -86,7 +86,7 @@
 	background-image: url('p1.jpg');
 	background-size: 100% 100%;
 	background-attachment: fixed;
-	padding: 500px;
+	padding: 450px;
 	
 }
 .para2{
