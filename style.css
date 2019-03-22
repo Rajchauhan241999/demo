@@ -61,6 +61,7 @@
 	font-size: 17px;
 	font-weight: bold;
 	line-height: 100px;
+	opacity: 0.9;
 		
 }
 .rightmenu ul li ul li{
@@ -71,6 +72,9 @@
 }
 .rightmenu ul li:hover > ul{
 	display: block;
+}
+.rightmenu ul li:hover {
+	background-color:#E67E22;
 }
 
 /*.rightmenu ul li {
@@ -144,12 +148,9 @@ h2{
 	
 }
 
-#fisrtlist{
-	color: orange;
-}
 
 .rightmenu ul li:hover{
-	color: orange;
+	color: black;
 }
 
 
@@ -181,7 +182,7 @@ h2{
 
 
 #buttonone{
-	background-color: orange;
+	background-color: #E67E22;
 	border: none;
 	font-size: 25px;
 	font-weight: bold;
